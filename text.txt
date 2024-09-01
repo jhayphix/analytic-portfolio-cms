@@ -1,0 +1,15 @@
+Schemas to use
+    author
+    category
+    Post 
+        title
+        description
+        project_type
+        category
+        project_image
+        iframe_status
+        iframe_height
+        iframe_width
+        iframe_url
+        iframe_src
+        story : array with story_tab and story content
